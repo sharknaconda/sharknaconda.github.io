@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on ExampleSite</title>
-    <link>https://sharknaconda.github.io/tags/</link>
-    <description>Recent content in Tags on ExampleSite</description>
-    <image>
-      <url>https://sharknaconda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://sharknaconda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sharknaconda.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on Home</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australien 2022</title>
+      <link>http://example.org/tags/australien-2022/</link>
+      <pubDate>Thu, 19 May 2022 23:30:51 +0200</pubDate>
+      
+      <guid>http://example.org/tags/australien-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juni</title>
+      <link>http://example.org/tags/juni/</link>
+      <pubDate>Thu, 19 May 2022 23:30:51 +0200</pubDate>
+      
+      <guid>http://example.org/tags/juni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://example.org/tags/first/</link>
+      <pubDate>Thu, 19 May 2022 20:49:19 +0200</pubDate>
+      
+      <guid>http://example.org/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>start</title>
+      <link>http://example.org/tags/start/</link>
+      <pubDate>Thu, 19 May 2022 20:49:19 +0200</pubDate>
+      
+      <guid>http://example.org/tags/start/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -2,6 +2,7 @@ baseURL: 'http://example.org/'
 languageCode: de
 title: Home
 theme: PaperMod
+publishDir: 'docs'
 
 enableEmoji: true
 buildDrafts: false

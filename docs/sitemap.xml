@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sharknaconda.github.io/categories/</loc>
+    <loc>http://example.org/tags/australien-2022/</loc>
+    <lastmod>2022-05-19T23:30:51+02:00</lastmod>
   </url><url>
-    <loc>https://sharknaconda.github.io/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-05-19T23:30:51+02:00</lastmod>
   </url><url>
-    <loc>https://sharknaconda.github.io/tags/</loc>
+    <loc>http://example.org/tags/juni/</loc>
+    <lastmod>2022-05-19T23:30:51+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/nocheiner/</loc>
+    <lastmod>2022-05-19T23:30:51+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2022-05-19T23:30:51+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2022-05-19T23:30:51+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/third/</loc>
+    <lastmod>2022-05-19T23:30:46+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/second/</loc>
+    <lastmod>2022-05-19T23:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/first/</loc>
+    <lastmod>2022-05-19T20:49:19+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/started/gettingstarted/</loc>
+    <lastmod>2022-05-19T20:49:19+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/start/</loc>
+    <lastmod>2022-05-19T20:49:19+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/about/</loc>
+  </url><url>
+    <loc>http://example.org/archives/</loc>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
   </url>
 </urlset>
