@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Home</title>
-    <link>http://example.org/tags/</link>
+    <link>https://sharknaconda.github.io/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="https://sharknaconda.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australien 2022</title>
-      <link>http://example.org/tags/australien-2022/</link>
+      <link>https://sharknaconda.github.io/tags/australien-2022/</link>
       <pubDate>Thu, 19 May 2022 23:30:51 +0200</pubDate>
       
-      <guid>http://example.org/tags/australien-2022/</guid>
+      <guid>https://sharknaconda.github.io/tags/australien-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Juni</title>
-      <link>http://example.org/tags/juni/</link>
+      <link>https://sharknaconda.github.io/tags/juni/</link>
       <pubDate>Thu, 19 May 2022 23:30:51 +0200</pubDate>
       
-      <guid>http://example.org/tags/juni/</guid>
+      <guid>https://sharknaconda.github.io/tags/juni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://example.org/tags/first/</link>
+      <link>https://sharknaconda.github.io/tags/first/</link>
       <pubDate>Thu, 19 May 2022 20:49:19 +0200</pubDate>
       
-      <guid>http://example.org/tags/first/</guid>
+      <guid>https://sharknaconda.github.io/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>start</title>
-      <link>http://example.org/tags/start/</link>
+      <link>https://sharknaconda.github.io/tags/start/</link>
       <pubDate>Thu, 19 May 2022 20:49:19 +0200</pubDate>
       
-      <guid>http://example.org/tags/start/</guid>
+      <guid>https://sharknaconda.github.io/tags/start/</guid>
       <description></description>
     </item>
     

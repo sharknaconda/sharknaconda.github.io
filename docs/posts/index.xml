@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Home</title>
-    <link>http://example.org/posts/</link>
+    <link>https://sharknaconda.github.io/posts/</link>
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="https://sharknaconda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nocheiner</title>
-      <link>http://example.org/posts/nocheiner/</link>
+      <link>https://sharknaconda.github.io/posts/nocheiner/</link>
       <pubDate>Thu, 19 May 2022 23:30:51 +0200</pubDate>
       
-      <guid>http://example.org/posts/nocheiner/</guid>
+      <guid>https://sharknaconda.github.io/posts/nocheiner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Third</title>
-      <link>http://example.org/posts/third/</link>
+      <link>https://sharknaconda.github.io/posts/third/</link>
       <pubDate>Thu, 19 May 2022 23:30:46 +0200</pubDate>
       
-      <guid>http://example.org/posts/third/</guid>
+      <guid>https://sharknaconda.github.io/posts/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>http://example.org/posts/second/</link>
+      <link>https://sharknaconda.github.io/posts/second/</link>
       <pubDate>Thu, 19 May 2022 23:30:41 +0200</pubDate>
       
-      <guid>http://example.org/posts/second/</guid>
+      <guid>https://sharknaconda.github.io/posts/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GettingStarted</title>
-      <link>http://example.org/posts/started/gettingstarted/</link>
+      <link>https://sharknaconda.github.io/posts/started/gettingstarted/</link>
       <pubDate>Thu, 19 May 2022 20:49:19 +0200</pubDate>
       
-      <guid>http://example.org/posts/started/gettingstarted/</guid>
+      <guid>https://sharknaconda.github.io/posts/started/gettingstarted/</guid>
       <description>Desc Text.</description>
     </item>
     
