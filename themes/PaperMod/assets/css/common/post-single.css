@@ -34,6 +34,11 @@
 
 .post-content {
     color: var(--content);
+    /* Hier fuer grauen Hintergrund wenn man Hintergrundbild macht*/
+   /* background: var(--entry);
+    padding: var(--gap);
+    border-radius: var(--radius); */
+    /*background-color: black; Hier fuer Background beim Content*/ 
 }
 
 .post-content h3,

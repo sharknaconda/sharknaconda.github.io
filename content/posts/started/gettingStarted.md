@@ -2,7 +2,7 @@
 title: "GettingStarted"
 description: "Desc Text."
 date: 2022-05-19T20:49:19+02:00
-draft: false
+draft: true
 author: [Alexander]
 tags: ["start", "first"]
 cover:

@@ -6,41 +6,14 @@
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="https://avk-travels.de/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nocheiner</title>
-      <link>https://avk-travels.de/posts/nocheiner/</link>
-      <pubDate>Thu, 19 May 2022 23:30:51 +0200</pubDate>
-      
-      <guid>https://avk-travels.de/posts/nocheiner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Third</title>
-      <link>https://avk-travels.de/posts/third/</link>
-      <pubDate>Thu, 19 May 2022 23:30:46 +0200</pubDate>
-      
-      <guid>https://avk-travels.de/posts/third/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 19 May 2022 23:30:41 +0200</lastBuildDate><atom:link href="https://avk-travels.de/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second</title>
       <link>https://avk-travels.de/posts/second/</link>
       <pubDate>Thu, 19 May 2022 23:30:41 +0200</pubDate>
       
       <guid>https://avk-travels.de/posts/second/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GettingStarted</title>
-      <link>https://avk-travels.de/posts/started/gettingstarted/</link>
-      <pubDate>Thu, 19 May 2022 20:49:19 +0200</pubDate>
-      
-      <guid>https://avk-travels.de/posts/started/gettingstarted/</guid>
-      <description>Desc Text.</description>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
   </channel>

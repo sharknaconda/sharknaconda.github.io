@@ -6,41 +6,14 @@
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="https://avk-travels.de/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nocheiner</title>
-      <link>https://avk-travels.de/posts/nocheiner/</link>
-      <pubDate>Thu, 19 May 2022 23:30:51 +0200</pubDate>
-      
-      <guid>https://avk-travels.de/posts/nocheiner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Third</title>
-      <link>https://avk-travels.de/posts/third/</link>
-      <pubDate>Thu, 19 May 2022 23:30:46 +0200</pubDate>
-      
-      <guid>https://avk-travels.de/posts/third/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 19 May 2022 23:30:41 +0200</lastBuildDate><atom:link href="https://avk-travels.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second</title>
       <link>https://avk-travels.de/posts/second/</link>
       <pubDate>Thu, 19 May 2022 23:30:41 +0200</pubDate>
       
       <guid>https://avk-travels.de/posts/second/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GettingStarted</title>
-      <link>https://avk-travels.de/posts/started/gettingstarted/</link>
-      <pubDate>Thu, 19 May 2022 20:49:19 +0200</pubDate>
-      
-      <guid>https://avk-travels.de/posts/started/gettingstarted/</guid>
-      <description>Desc Text.</description>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
@@ -49,8 +22,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://avk-travels.de/about/</guid>
-      <description>About Me  Trolltunga - Norwegen
-  Hi ich bin Alexander.
+      <description>About Me Trolltunga - Norwegen
+Hi ich bin Alexander.
 Ich liebe das Reisen und bin gerne in der Welt unterwegs. Nur bis jetzt konnte ich meine Freunde und Verwandten nie richtig mitnehmen und von meinen ganzen Erfahrungen berichten. Das möchte ich nun ändern und habe diesen Blog gestartet. 🎉
 Die letzten Reisen gingen, durch die Pandemie, nach Italien, Österreich, Frankreich und die Schweiz. Wenn ich die Zeit finde, wird es in Zukunft bestimmt ein paar Throwbacks geben =)</description>
     </item>
