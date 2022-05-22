@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Home</title>
-    <link>https://sharknaconda.github.io/posts/</link>
+    <link>https://avk-travels.de/posts/</link>
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="https://sharknaconda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="https://avk-travels.de/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nocheiner</title>
-      <link>https://sharknaconda.github.io/posts/nocheiner/</link>
+      <link>https://avk-travels.de/posts/nocheiner/</link>
       <pubDate>Thu, 19 May 2022 23:30:51 +0200</pubDate>
       
-      <guid>https://sharknaconda.github.io/posts/nocheiner/</guid>
+      <guid>https://avk-travels.de/posts/nocheiner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Third</title>
-      <link>https://sharknaconda.github.io/posts/third/</link>
+      <link>https://avk-travels.de/posts/third/</link>
       <pubDate>Thu, 19 May 2022 23:30:46 +0200</pubDate>
       
-      <guid>https://sharknaconda.github.io/posts/third/</guid>
+      <guid>https://avk-travels.de/posts/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://sharknaconda.github.io/posts/second/</link>
+      <link>https://avk-travels.de/posts/second/</link>
       <pubDate>Thu, 19 May 2022 23:30:41 +0200</pubDate>
       
-      <guid>https://sharknaconda.github.io/posts/second/</guid>
+      <guid>https://avk-travels.de/posts/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GettingStarted</title>
-      <link>https://sharknaconda.github.io/posts/started/gettingstarted/</link>
+      <link>https://avk-travels.de/posts/started/gettingstarted/</link>
       <pubDate>Thu, 19 May 2022 20:49:19 +0200</pubDate>
       
-      <guid>https://sharknaconda.github.io/posts/started/gettingstarted/</guid>
+      <guid>https://avk-travels.de/posts/started/gettingstarted/</guid>
       <description>Desc Text.</description>
     </item>
     

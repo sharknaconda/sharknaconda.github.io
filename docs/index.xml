@@ -2,59 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home</title>
-    <link>https://sharknaconda.github.io/</link>
+    <link>https://avk-travels.de/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="https://sharknaconda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 23:30:51 +0200</lastBuildDate><atom:link href="https://avk-travels.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nocheiner</title>
-      <link>https://sharknaconda.github.io/posts/nocheiner/</link>
+      <link>https://avk-travels.de/posts/nocheiner/</link>
       <pubDate>Thu, 19 May 2022 23:30:51 +0200</pubDate>
       
-      <guid>https://sharknaconda.github.io/posts/nocheiner/</guid>
+      <guid>https://avk-travels.de/posts/nocheiner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Third</title>
-      <link>https://sharknaconda.github.io/posts/third/</link>
+      <link>https://avk-travels.de/posts/third/</link>
       <pubDate>Thu, 19 May 2022 23:30:46 +0200</pubDate>
       
-      <guid>https://sharknaconda.github.io/posts/third/</guid>
+      <guid>https://avk-travels.de/posts/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://sharknaconda.github.io/posts/second/</link>
+      <link>https://avk-travels.de/posts/second/</link>
       <pubDate>Thu, 19 May 2022 23:30:41 +0200</pubDate>
       
-      <guid>https://sharknaconda.github.io/posts/second/</guid>
+      <guid>https://avk-travels.de/posts/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GettingStarted</title>
-      <link>https://sharknaconda.github.io/posts/started/gettingstarted/</link>
+      <link>https://avk-travels.de/posts/started/gettingstarted/</link>
       <pubDate>Thu, 19 May 2022 20:49:19 +0200</pubDate>
       
-      <guid>https://sharknaconda.github.io/posts/started/gettingstarted/</guid>
+      <guid>https://avk-travels.de/posts/started/gettingstarted/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://sharknaconda.github.io/about/</link>
+      <link>https://avk-travels.de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharknaconda.github.io/about/</guid>
-      <description>Alexander  Norwegen Trolltunga
-  Ich bin Alexander.
-Ich liebe das Reisen und aus diesem Grund habe ich nach der Pandemie diesen Blog gestartet. Diese Page dient als Tagebuch meiner, mehr oder weniger, kleinen Touren.
-Wenn ich nicht gerade in der Welt unterwegs bin lebe ich im bescheidenen Münster.
- Dolomiten
-  </description>
+      <guid>https://avk-travels.de/about/</guid>
+      <description>About Me  Trolltunga - Norwegen
+  Hi ich bin Alexander.
+Ich liebe das Reisen und bin gerne in der Welt unterwegs. Nur bis jetzt konnte ich meine Freunde und Verwandten nie richtig mitnehmen und von meinen ganzen Erfahrungen berichten. Das möchte ich nun ändern und habe diesen Blog gestartet. 🎉
+Die letzten Reisen gingen, durch die Pandemie, nach Italien, Österreich, Frankreich und die Schweiz. Wenn ich die Zeit finde, wird es in Zukunft bestimmt ein paar Throwbacks geben =)</description>
     </item>
     
     

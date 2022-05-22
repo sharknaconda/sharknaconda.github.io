@@ -2,15 +2,19 @@
 ShowReadingTime: false
 ShowWordCount: false
 ---
-### Alexander
+### About Me
 
 
-{{< figure src="/images/meNorwayNew.jpg" caption="Norwegen Trolltunga" align="center" >}}
+{{< figure src="/images/meNorwayNew.jpg" caption="Trolltunga - Norwegen" align="center" >}}
 
-Ich bin Alexander.
+Hi ich bin Alexander.
 
-Ich liebe das Reisen und aus diesem Grund habe ich nach der Pandemie diesen Blog gestartet. Diese Page dient als Tagebuch meiner, mehr oder weniger, kleinen Touren.
+Ich liebe das Reisen und bin gerne in der Welt unterwegs. Nur bis jetzt konnte ich meine Freunde und Verwandten nie richtig mitnehmen und von meinen ganzen Erfahrungen berichten. Das möchte ich nun ändern und habe diesen Blog gestartet. :tada:
+
+Die letzten Reisen gingen, durch die Pandemie, nach Italien, Österreich, Frankreich und die Schweiz. Wenn ich die Zeit finde, wird es in Zukunft bestimmt ein paar Throwbacks geben =)
+
+Ansonsten steht die nächste Reise schon vor der Tür. AUSTRALIEN !! Ich freue mich. Seid gespannt, ich nehme euch mit!
 
 Wenn ich nicht gerade in der Welt unterwegs bin lebe ich im bescheidenen Münster.
 
-{{< figure src="/images/melakeNew.jpg" caption="Dolomiten" align="center" >}}
+{{< figure src="/images/melakeNew.jpg" caption="Lago di Tret - Italien" align="center" >}}
