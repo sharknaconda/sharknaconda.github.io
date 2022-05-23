@@ -1,6 +1,7 @@
 ---
 title: "Reisevorfreude"
 description: "Einmal über den großen See nach Australien"
+summary: Der erste Post! let´s go
 date: 2022-05-23T21:10:09+02:00
 draft: false
 author: ["Alexander"]
