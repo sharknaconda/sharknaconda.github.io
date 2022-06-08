@@ -13,7 +13,7 @@ Ich liebe das Reisen und bin gerne in der Welt unterwegs. Nur bis jetzt konnte i
 
 Die letzten Reisen gingen nach Italien, Österreich, Frankreich und in die Schweiz. Wenn ich die Zeit finde, wird es in Zukunft bestimmt ein paar Throwbacks geben. :stuck_out_tongue_winking_eye:
 
-Ansonsten steht die nächste Reise schon vor der Tür. AUSTRALIEN !! Ich freue mich. Seid gespannt, ich nehme euch mit!
+Ansonsten steht die nächste Reise schon vor der Tür. AUSTRALIEN !! Ich freue mich. Seid gespannt, ich nehme Euch mit!
 
 Wenn ich nicht gerade in der Welt unterwegs bin lebe ich im bescheidenen Münster.
 

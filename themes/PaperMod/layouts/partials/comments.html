@@ -1,3 +1,28 @@
-{{- /* Comments area start */ -}}
-{{- /* to add comments read => https://gohugo.io/content-management/comments/ */ -}}
-{{- /* Comments area end */ -}}
+
+
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var palette = null;
+    
+if (localStorage.getItem("pref-theme") === 'dark'){//window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    palette = {
+        accent: "#9b9c9d",
+        accentText: "#000000",
+        footerHeader: "#37383e",
+        footerHeaderText: "#c4c4c5",
+        box: "#1d1e20",
+        boxText: "#c4c4c5",
+        boxLightText: "#aaaaaa",
+        backgroundText: "#ffffff"
+    }
+}
+    var HYVOR_TALK_WEBSITE = 7216;
+    var HYVOR_TALK_CONFIG = {
+        url: false,
+        id: "blogNumber",
+        palette: palette,
+        language: 'en',
+
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed.js"></script>

@@ -12,8 +12,9 @@ params:
     # defaultTheme: dark
     defaultTheme: true # to switch between dark or light according to browser theme
     disableThemeToggle: false
-    ShowReadingTime: true
+    ShowReadingTime: false
     ShowWordCount: false
+    comments: true
 
     homeInfoParams:
         Title: "Welcome here \U0001F44B"
