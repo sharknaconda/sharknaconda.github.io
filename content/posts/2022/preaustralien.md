@@ -4,10 +4,11 @@ description: "Einmal über den großen Teich nach Australien"
 summary: Der erste Post! Let´s go!
 date: 2022-05-23T21:10:09+02:00
 draft: false
+id: 1
 author: ["Alexander"]
 tags: ["Australien 2022"]
 cover:
-    image: "/images/australien.png"
+    image: "posts/2022/images/australien.png"
     #alt: "Alt Alt Alt"
     #caption: "Road - Australien"
     relative: false
