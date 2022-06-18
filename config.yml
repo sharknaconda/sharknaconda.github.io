@@ -18,7 +18,7 @@ params:
 
     homeInfoParams:
         Title: "Welcome here \U0001F44B"
-        Content: It's just a travel Blog
+        Content: It's just a travel blog - Departure into unknown lands!
 
     hideFooter: false
     DateFormat: "Monday, January 2, 2006" #"2006-01-02 15:04"
